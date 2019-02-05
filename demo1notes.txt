@@ -1,0 +1,9 @@
+demo notes
+
+dates are stored in different format
+they're abbreviated (becausue I doubt that's how tey're soted on teh backend)
+`merge` code snippet
+screenshots of empty cells (cleanup)
+ - got one of cleanup
+screenshots of cells that have the wrong types of data in them. 
+a slide about that
