@@ -1,0 +1,9 @@
+﻿adult,lens_id,imdb_id,original_title,popularity,production_countries,release_date,revenue,runtime,title,video,vote_average,vote_count
+FALSE,1,tt09,Panorama of Eiffel Tower,0.071812,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",1/1/00,0,1,Panorama of Eiffel Tower,FALSE,6.5,2
+FALSE,2,tt10,Palace of Electricity,0.071779,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",1/1/00,0,1,Palace of Electricity,FALSE,5.5,2
+FALSE,3,tt11,L'Homme orchestre,1.109068,"[{'iso_3166_1': 'FR', 'name': 'France'}]",1/1/00,0,1,The One-Man Band,FALSE,6.5,22
+FALSE,4,tt12,Nouvelles luttes extravagantes,0.225432,"[{'iso_3166_1': 'FR', 'name': 'France'}]",1/1/00,0,2,The Fat and Lean Wrestling Match,FALSE,6.5,6
+FALSE,5,tt13,Why Jones Discharged His Clerks,0.001187,[],1/21/00,0,1,Why Jones Discharged His Clerks,FALSE,0,0
+FALSE,6,tt14,The Kiss,0.244609,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",3/9/00,0,1,The Kiss,FALSE,4.5,7
+FALSE,7,tt15,Gymnasium Exercises and Drill at Newport Training School,0.001656,[],5/21/00,0,1,Gymnasium Exercises and Drill at Newport Training School,FALSE,0,0
+FALSE,8,tt16,Let Me Dream Again,0.462651,"[{'iso_3166_1': 'GB', 'name': 'United Kingdom'}]",8/1/00,0,1,Let Me Dream Again,FALSE,6,5
