@@ -1,9 +1,48 @@
 demo notes
 
-dates are stored in different format
-they're abbreviated (becausue I doubt that's how tey're soted on teh backend)
-`merge` code snippet
-screenshots of empty cells (cleanup)
- - got one of cleanup
-screenshots of cells that have the wrong types of data in them. 
+Data:
+ 1. Dates are stored in different format
+ 	a. Abbreviated dates in CSV
+ 	b. MovieLens uses dashed format (1894-11-6)
+ 2. Names mess up JSON parsing
+ 	a. Often, they have apostrophes in them (O'Connell, D'Servi, L'Sheev, Mark 'Spark' Robins)
+ 3. Columns have missing values
+ 	a. Merging datasets is hard because sometimes rows have `null` in common
+ 	b. We're pulling from 3 different databases (IMDb, TMDb, and MovieLens)
+ 4. Redundancy is good.
+ 	a. Since we have a supreme overlord database,
+ 	     i.	The issue with TMDb not returning what they promise they would 
+ 	    ii.	We might become too dependent. There are problems with the data that are untenably hard to remedy
+ 	   iii. What do we do about missing values? That's where open source falls short.
+ 	    iv. But there are solutions: VarietyInsight
+ 	b. Since we are relying on old data, this is where we're reaching the cusp. 
+
 a slide about that
+
+
+
+notes from rabbi dov:
+
+ - yad vashem (hand and the name)
+ - personalized bags in teh french orphanage
+ - kids and even neighborhood patrons resisted the demonstration (it was political and aimed as a fundraiser)
+ - none of the kids even wnted to be there. they wanted to be in jerusalem
+ - kids turned their backs until someone got onstage and announced himeself
+ - everyong turned around to see him because they knew who he was. 
+ - the man broke down and everyone started crying
+ - someone got onstage and said that that was such a gift. nobody had been able to cry
+ 	- that someone's father was killed in front of him by an SS officer, and he didn't cry to give that man the satsifaction
+ 	- then he couldn't cry after that, because how could he if he didn't cry when his father was murdered?
+ - but in that moment he was able to 
+ - that personalization of the bags as gifts almost convinced the students to come out (material identification)
+
+
+notes from Lee:
+
+ - Like to see what countries are featured
+ - like to see the production babies
+ - like to see the amount of VFX people (especially surprised to learn that there's special FX at all at times)
+ - Likes to know the songs 
+ - Imagines some sort of tool to analyze the credits themselves and provide insight in real time
+
+ 

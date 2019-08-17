@@ -48,7 +48,6 @@ print(credits_with_link.head(10))
 credits_with_link['imdb_id'] = credits_with_link['imdb_id'].astype(str)
 credits_with_link['imdb_id'] = credits_with_link['imdb_id'].apply(convert_to_imdb_id)
 
-
 movies['imdb_id'] = movies['imdb_id'].astype(str)
 merged = pd.merge(credits_with_link, movies.drop(columns=['lens_id', 'original_title', 'production_countries']), on='imdb_id')
 
